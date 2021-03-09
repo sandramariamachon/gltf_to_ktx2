@@ -1,0 +1,5 @@
+The supplied toktx.exe version is: v4.0.0-beta6
+
+To Update:
+1. Download the latest release from here: https://github.com/KhronosGroup/KTX-Software/releases
+2. Override ktx.dll and toktx.exe with the latest versions (from the installation folder after you install the latest release)
