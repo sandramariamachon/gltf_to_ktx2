@@ -1,6 +1,6 @@
 # gltf to ktx2 converter
 
-This python script converts your jpg and png files to [ktx2](https://doc.babylonjs.com/divingDeeper/materials/using/ktx2Compression){:target="_blank"}.
+This python script converts your jpg and png files to <a href="https://doc.babylonjs.com/divingDeeper/materials/using/ktx2Compression" target="_blank">ktx2</a>
 It will also parse your gltf files then swap all .jpg and .png mentions to .ktx2, so they can work with the newly converted textures.
 
 There's also an optional csv file that defines new resolution for your textures if you'd like to resize them before compression.
@@ -28,8 +28,7 @@ You can copy your files (.gltf, .bin, .jpg, .png) to "_files/AllFiles"
 How to use via python: link
 How to use the via the release: link
 
-You can quickly test your files in the [Babylon Sandbox](https://sandbox.babylonjs.com/){:target="_blank"}
-
+You can quickly test your files in the <a href="https://sandbox.babylonjs.com/" target="_blank">Babylon Sandbox</a>
 
 ## More info:
 The converter works as follows:
