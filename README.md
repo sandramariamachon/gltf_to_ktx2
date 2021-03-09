@@ -25,8 +25,8 @@ You can copy your files (.gltf, .bin, .jpg, .png) to "_files/AllFiles"
 
 ## Video demonstrations:
 
-How to use via python: link
-How to use the via the release: link
+How to use via python: [link](https://youtu.be/uIHQfX6-jI8)  
+How to use via exe: [link](https://youtu.be/knPUWu--H8k)  
 
 You can quickly test your files in the [Babylon Sandbox](https://sandbox.babylonjs.com/)
 
