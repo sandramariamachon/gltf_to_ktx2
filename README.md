@@ -19,7 +19,8 @@ To run the python file you need to install the following libraries:
 
 You can copy your files (.gltf, .bin, .jpg, .png) to "_files/AllFiles"
 
-⚠️ Make sure to delete the demo files from the folder before you copy your files!
+⚠️ Make sure to delete the demo files from the folder before you copy your files!  
+
 ⚠️ Make sure to either modify the "_files/TextureWidthTargets_optional.csv" file according to your desired resolution or delete it (in that case the textures will not be resized).
 
 ## Video demonstrations:
