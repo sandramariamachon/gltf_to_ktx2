@@ -1,5 +1,7 @@
 # gltf to ktx2 converter
 
+This converter was created for Notelos Ltd.
+
 This python script converts your jpg and png files to [ktx2](https://doc.babylonjs.com/divingDeeper/materials/using/ktx2Compression).
 It will also parse your gltf files then swap all .jpg and .png mentions to .ktx2, so they can work with the newly converted textures.
 
